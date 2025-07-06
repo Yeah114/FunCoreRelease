@@ -1,0 +1,2 @@
+from .place_nbt_block_in_console_return import PlaceNBTBlockInConsole_return
+from .get_structure_as_nbt_return import GetStructureAsNBT_return
